@@ -114,8 +114,6 @@ Instrument capacity and culture related processes dominated model performance, w
 
 ## How to run
 
-## How to run
-
 1) Install dependencies:
 ```bash
 pip install -r requirements.txt
@@ -127,4 +125,5 @@ python src/make_synthetic_lab_data.py
 notebooks/01_lab_turnaround_regression.ipynb
 
 ---
+
 
