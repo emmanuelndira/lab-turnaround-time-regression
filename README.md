@@ -74,7 +74,7 @@ The **Random Forest regressor** achieved the lowest error and highest R², indic
 ### Feature importance
 ![Feature importance](screenshots/feature_importance.png)
 
-Instrument-related constraints dominated model behaviour:
+Instrument related constraints dominated model behaviour:
 - **Instrument capacity**
 - **Culture based tests** (e.g. blood and urine cultures)
 
@@ -123,6 +123,7 @@ python src/make_synthetic_lab_data.py
 
 3) Open and run the notebook:
 notebooks/01_lab_turnaround_regression.ipynb
+
 
 
 
